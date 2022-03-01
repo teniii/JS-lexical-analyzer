@@ -1,0 +1,40 @@
+'const',                         CONST;      5;       linia 1  coloana: 5
+'constanta',                         IDENTIFIER;      9;       linia 1  coloana: 15
+'=',                         EQUALS;      1;       linia 1  coloana: 17
+'ana are mere',                         STRING;      12;       linia 1  coloana: 33
+';',                         SEMICOLON;      1;       linia 1  coloana: 33
+'let',                         LET;      3;       linia 3  coloana: 4
+'b',                         IDENTIFIER;      1;       linia 3  coloana: 6
+'=',                         EQUALS;      1;       linia 3  coloana: 8
+'oare merge?',                         STRING;      11;       linia 3  coloana: 23
+';',                         SEMICOLON;      1;       linia 3  coloana: 23
+'let',                         LET;      3;       linia 5  coloana: 4
+'c',                         IDENTIFIER;      1;       linia 5  coloana: 6
+'=',                         EQUALS;      1;       linia 5  coloana: 8
+' will see',                         STRING;      9;       linia 5  coloana: 21
+';',                         SEMICOLON;      1;       linia 5  coloana: 21
+'// be patient',                         COMMENT;      13;       linia 7  coloana: 15
+' There are comms',                         COMMENT;      16;       linia 9  coloana: 21
+'/',                         SLASH;      1;       linia 9  coloana: 21
+'class',                         CLASS;      5;       linia 10  coloana: 6
+'E',                         IDENTIFIER;      1;       linia 10  coloana: 8
+'{',                         O_CUR_BR;      1;       linia 10  coloana: 10
+'private',                         PRIVATE;      7;       linia 11  coloana: 10
+'hmm',                         IDENTIFIER;      3;       linia 11  coloana: 14
+':',                         COLON;      1;       linia 11  coloana: 15
+'string',                         IDENTIFIER;      6;       linia 11  coloana: 22
+';',                         SEMICOLON;      1;       linia 11  coloana: 23
+'}',                         C_CUR_BR;      1;       linia 12  coloana: 2
+'export',                         EXPORT;      6;       linia 14  coloana: 7
+'default',                         DEFAULT;      7;       linia 14  coloana: 15
+'{',                         O_CUR_BR;      1;       linia 14  coloana: 17
+'E',                         IDENTIFIER;      1;       linia 14  coloana: 19
+',',                         COMMA;      1;       linia 14  coloana: 20
+'constanta',                         IDENTIFIER;      9;       linia 14  coloana: 30
+',',                         COMMA;      1;       linia 14  coloana: 31
+'b',                         IDENTIFIER;      1;       linia 14  coloana: 33
+',',                         COMMA;      1;       linia 14  coloana: 34
+'c',                         IDENTIFIER;      1;       linia 14  coloana: 36
+'}',                         C_CUR_BR;      1;       linia 14  coloana: 38
+';',                         SEMICOLON;      1;       linia 14  coloana: 39
+'undefined',                         IDENTIFIER;      9;       linia 14  coloana: 40
