@@ -1,58 +1,58 @@
-'const',                         KEYWORD;      5;       linia 1  coloana: 5
-'constanta',                         IDENTIFIER;      9;       linia 1  coloana: 15
-'=',                         DELIMITER;      1;       linia 1  coloana: 17
-'ana are mere',                         CONST STRING;      12;       linia 1  coloana: 33
-';',                         DELIMITER;      1;       linia 1  coloana: 33
-'const',                         KEYWORD;      5;       linia 2  coloana: 6
-'constanta_numar',                         IDENTIFIER;      15;       linia 2  coloana: 22
-'=',                         DELIMITER;      1;       linia 2  coloana: 24
-'32',                         CONST NUMBER;      2;       linia 2  coloana: 27
-';',                         DELIMITER;      1;       linia 2  coloana: 28
-'awaitbreak',                         IDENTIFIER;      10;       linia 4  coloana: 11
-'let',                         KEYWORD;      3;       linia 6  coloana: 4
-'b',                         IDENTIFIER;      1;       linia 6  coloana: 6
-'=',                         DELIMITER;      1;       linia 6  coloana: 8
-'oare merge?',                         CONST STRING;      11;       linia 6  coloana: 23
-';',                         DELIMITER;      1;       linia 6  coloana: 23
-'let',                         KEYWORD;      3;       linia 8  coloana: 4
-'sbd',                         IDENTIFIER;      3;       linia 8  coloana: 8
-'.',                         DELIMITER;      1;       linia 8  coloana: 9
-'23',                         CONST NUMBER;      2;       linia 8  coloana: 11
-'=',                         DELIMITER;      1;       linia 8  coloana: 13
-'123',                         CONST NUMBER;      3;       linia 8  coloana: 17
-';',                         DELIMITER;      1;       linia 8  coloana: 18
-'let',                         KEYWORD;      3;       linia 10  coloana: 4
-'c',                         IDENTIFIER;      1;       linia 10  coloana: 6
-'=',                         DELIMITER;      1;       linia 10  coloana: 8
-' will see',                         CONST STRING;      9;       linia 10  coloana: 21
-';',                         DELIMITER;      1;       linia 10  coloana: 21
-'// be patient',                         COMMENT;      13;       linia 12  coloana: 15
-' There are comms',                         COMMENT;      16;       linia 14  coloana: 21
-'/',                         DELIMITER;      1;       linia 14  coloana: 21
+'const', KEYWORD; 5; linia 1 coloana: 5
+'constanta', IDENTIFIER; 9; linia 1 coloana: 15
+'=', DELIMITER; 1; linia 1 coloana: 17
+'ana are mere', CONST STRING; 12; linia 1 coloana: 33
+';', DELIMITER; 1; linia 1 coloana: 33
+'const', KEYWORD; 5; linia 2 coloana: 6
+'constanta_numar', IDENTIFIER; 15; linia 2 coloana: 22
+'=', DELIMITER; 1; linia 2 coloana: 24
+'32', CONST NUMBER; 2; linia 2 coloana: 27
+';', DELIMITER; 1; linia 2 coloana: 28
+'awaitbreak', IDENTIFIER; 10; linia 4 coloana: 11
+'let', KEYWORD; 3; linia 6 coloana: 4
+'b', IDENTIFIER; 1; linia 6 coloana: 6
+'=', DELIMITER; 1; linia 6 coloana: 8
+'oare merge?', CONST STRING; 11; linia 6 coloana: 23
+';', DELIMITER; 1; linia 6 coloana: 23
+'let', KEYWORD; 3; linia 8 coloana: 4
+'sbd', IDENTIFIER; 3; linia 8 coloana: 8
+'.', DELIMITER; 1; linia 8 coloana: 9
+'23', CONST NUMBER; 2; linia 8 coloana: 11
+'=', DELIMITER; 1; linia 8 coloana: 13
+'123', CONST NUMBER; 3; linia 8 coloana: 17
+';', DELIMITER; 1; linia 8 coloana: 18
+'let', KEYWORD; 3; linia 10 coloana: 4
+'c', IDENTIFIER; 1; linia 10 coloana: 6
+'=', DELIMITER; 1; linia 10 coloana: 8
+' will see', CONST STRING; 9; linia 10 coloana: 21
+';', DELIMITER; 1; linia 10 coloana: 21
+'// be patient', COMMENT; 13; linia 12 coloana: 15
+' There are comms', COMMENT; 16; linia 14 coloana: 21
+'/', DELIMITER; 1; linia 14 coloana: 21
 '
 Multiline comm
 comm
-',                         COMMENT;      21;       linia 18  coloana: 3
-'/',                         DELIMITER;      1;       linia 18  coloana: 3
-'class',                         KEYWORD;      5;       linia 19  coloana: 6
-'E',                         IDENTIFIER;      1;       linia 19  coloana: 8
-'{',                         DELIMITER;      1;       linia 19  coloana: 10
-'private',                         KEYWORD;      7;       linia 20  coloana: 10
-'hmm',                         IDENTIFIER;      3;       linia 20  coloana: 14
-':',                         DELIMITER;      1;       linia 20  coloana: 15
-'string',                         IDENTIFIER;      6;       linia 20  coloana: 22
-';',                         DELIMITER;      1;       linia 20  coloana: 23
-'}',                         DELIMITER;      1;       linia 21  coloana: 2
-'export',                         KEYWORD;      6;       linia 23  coloana: 7
-'default',                         KEYWORD;      7;       linia 23  coloana: 15
-'{',                         DELIMITER;      1;       linia 23  coloana: 17
-'E',                         IDENTIFIER;      1;       linia 23  coloana: 19
-',',                         DELIMITER;      1;       linia 23  coloana: 20
-'constanta',                         IDENTIFIER;      9;       linia 23  coloana: 30
-',',                         DELIMITER;      1;       linia 23  coloana: 31
-'b',                         IDENTIFIER;      1;       linia 23  coloana: 33
-',',                         DELIMITER;      1;       linia 23  coloana: 34
-'c',                         IDENTIFIER;      1;       linia 23  coloana: 36
-'}',                         DELIMITER;      1;       linia 23  coloana: 38
-';',                         DELIMITER;      1;       linia 23  coloana: 39
-'undefined',                         IDENTIFIER;      9;       linia 23  coloana: 40
+', COMMENT; 21; linia 18 coloana: 3
+'/', DELIMITER; 1; linia 18 coloana: 3
+'class', KEYWORD; 5; linia 19 coloana: 6
+'E', IDENTIFIER; 1; linia 19 coloana: 8
+'{', DELIMITER; 1; linia 19 coloana: 10
+'private', KEYWORD; 7; linia 20 coloana: 10
+'hmm', IDENTIFIER; 3; linia 20 coloana: 14
+':', DELIMITER; 1; linia 20 coloana: 15
+'string', IDENTIFIER; 6; linia 20 coloana: 22
+';', DELIMITER; 1; linia 20 coloana: 23
+'}', DELIMITER; 1; linia 21 coloana: 2
+'export', KEYWORD; 6; linia 23 coloana: 7
+'default', KEYWORD; 7; linia 23 coloana: 15
+'{', DELIMITER; 1; linia 23 coloana: 17
+'E', IDENTIFIER; 1; linia 23 coloana: 19
+',', DELIMITER; 1; linia 23 coloana: 20
+'constanta', IDENTIFIER; 9; linia 23 coloana: 30
+',', DELIMITER; 1; linia 23 coloana: 31
+'b', IDENTIFIER; 1; linia 23 coloana: 33
+',', DELIMITER; 1; linia 23 coloana: 34
+'c', IDENTIFIER; 1; linia 23 coloana: 36
+'}', DELIMITER; 1; linia 23 coloana: 38
+';', DELIMITER; 1; linia 23 coloana: 39
+'undefined', IDENTIFIER; 9; linia 23 coloana: 40
