@@ -76,7 +76,7 @@ function read(): Token {
     let string: string = skipUntil(PUNCTUATION.DOUBLE_QUOTE);
     nextCharacter();
 
-    return createToken(TokenType.CONSTANT, TYPES["STRING"], string);
+    return createToken(TokenType.CONSTANT, "CONST STRING", string);
   }
 
   let token: Token;
@@ -102,7 +102,7 @@ function read(): Token {
   // Parsare separatori de lungime 1
   let tempKey = getKey(PUNCTUATION, getCurrentCharacter());
   if (tempKey != null) {
-    token = createToken(TokenType.DELIMITER, tempKey, PUNCTUATION[tempKey]);
+    token = createToken(TokenType.DELIMITER, "DELIMITER", PUNCTUATION[tempKey]);
     nextCharacter();
   } else {
     /* Parse words */
@@ -148,13 +148,13 @@ function readNextWord(): Token {
 
   // Verificarea keyword-urilor
   if (reservedKey != null) {
-    token = createToken(TokenType.KEYWORD, reservedKey, word);
+    token = createToken(TokenType.KEYWORD, "KEYWORD", word);
     // Verificarea daca e type
   } else if (typeKey != null) {
-    token = createToken(TokenType.TYPE, typeKey, word);
+    token = createToken(TokenType.TYPE, "TYPE", word);
   } else if (!isNaN(Number(word))) {
     // Verificare este o constanta de tip number
-    token = createToken(TokenType.CONSTANT, TYPES["NUMBER"], word);
+    token = createToken(TokenType.CONSTANT, "CONST NUMBER", word);
   } else {
     // Daca se ajunge aici, inseamna ca este un identificator
     token = createToken(TokenType.IDENTIFIER, "IDENTIFIER", word);
